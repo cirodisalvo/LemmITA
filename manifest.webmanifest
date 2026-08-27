@@ -1,0 +1,26 @@
+{
+  "name": "CAArmy – Dai forma alle tue parole con la CAA",
+  "short_name": "CAArmy",
+  "description": "Strumento didattico gratuito che trasforma le frasi in strisce di Comunicazione Aumentativa Alternativa (CAA).",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f6f9",
+  "theme_color": "#1e3a8a",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
